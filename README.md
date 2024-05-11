@@ -14,8 +14,15 @@ This repository contains a Tableau Public project to analyze and visualize data 
 - **Medium Risk**: Funds with a standard deviation (std) of performance between the low and high-risk thresholds were classified as medium risk
 - **High Risk**: Funds with a standard deviation (std) of performance above a certain threshold (10%) or a variance (var) above another threshold (20%) were classified as high risk. By categorizing funds into risk levels, investors can make informed decisions based on their risk tolerance and investment objectives.
 ### Visualizations 
-#### 1. General Overview of the Dataset: 'Investment Funds Overview' - Pie chart showing the distribution of asset types. - Bar chart showing the distribution of different asset types by fund type or across all funds. - Bar charts showing the top 5 funds by performance and their investment volumes. 
-#### 2. Fund Performance and Investment Patterns: 'Investment Fund KPI' - Line chart showing the performance evolution of each fund compared to a market data reference index (NASDAQ). - Details of the selected fund. - Line charts showing the transaction count by transaction type over time. - Advanced table showing fund details (fees, amount invested, performance). 
+#### 1. General Overview of the Dataset: 'Investment Funds Overview' 
+- Pie chart showing the distribution of asset types.
+- Bar chart showing the distribution of different asset types by fund type or across all funds.
+- Bar charts showing the top 5 funds by performance and their investment volumes. 
+#### 2. Fund Performance and Investment Patterns: 'Investment Fund KPI' 
+- Line chart showing the performance evolution of each fund compared to a market data reference index (NASDAQ).
+- Details of the selected fund.
+- Line charts showing the transaction count by transaction type over time.
+- Advanced table showing fund details (fees, amount invested, performance). 
 ### Additional Links - 
 [Investment Funds Dashboard](https://public.tableau.com/app/profile/valeriia.paksivatkina/viz/Dashboard_Investment_Fund/InvestmentFundKPI)  
 
