@@ -16,7 +16,7 @@ This repository contains a Tableau Public project to analyze and visualize data 
 ### Visualizations 
 #### 1. General Overview of the Dataset: 'Investment Funds Overview' - Pie chart showing the distribution of asset types. - Bar chart showing the distribution of different asset types by fund type or across all funds. - Bar charts showing the top 5 funds by performance and their investment volumes. 
 #### 2. Fund Performance and Investment Patterns: 'Investment Fund KPI' - Line chart showing the performance evolution of each fund compared to a market data reference index (NASDAQ). - Details of the selected fund. - Line charts showing the transaction count by transaction type over time. - Advanced table showing fund details (fees, amount invested, performance). 
-### Additional Links - [Investment Funds Dashboard]
-(https://public.tableau.com/app/profile/valeriia.paksivatkina/viz/Dashboard_Investment_Fund/InvestmentFundKPI)  
+### Additional Links - 
+[Investment Funds Dashboard](https://public.tableau.com/app/profile/valeriia.paksivatkina/viz/Dashboard_Investment_Fund/InvestmentFundKPI)  
 
 
